@@ -1,0 +1,8 @@
+${AnsiColor.BLUE}    __    _                       _      
+${AnsiColor.BLUE}   / /   (_)   ___________ ______(_)___ _
+${AnsiColor.BLUE}  / /   / / | / / ___/ __ `/ ___/ / __ `/
+${AnsiColor.BLUE} / /___/ /| |/ / /  / /_/ / /  / / /_/ / 
+${AnsiColor.BLUE}/_____/_/ |___/_/   \__,_/_/  /_/\__,_/  
+
+${AnsiColor.BRIGHT_GREEN} API REST de Gerenciamento de livraria
+                                         
